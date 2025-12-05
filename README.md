@@ -1,6 +1,8 @@
 # Prova-3---Desenvolvimento-Web-III
 
-Prova desenvolvida pelos alunos Gabriel Camargo Prado e João Victor Estreano do 3º Semestre do curso Desenvolvimento de Software Multiplataforma da Fatec Jacareí.
+# Integrantes: Gabriel Camargo Prado e João Victor Estreano
+
+Prova desenvolvida pelos alunos <strong>Gabriel Camargo Prado</strong> e <strong>João Victor Estreano</strong> do 3º Semestre do curso Desenvolvimento de Software Multiplataforma da Fatec Jacareí.
 
 # Como rodar o projeot
 
